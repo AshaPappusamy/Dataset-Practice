@@ -1,1 +1,1 @@
-This project is about predicting a simple buyer prediction ML model
+This folder contains all my practice projects
